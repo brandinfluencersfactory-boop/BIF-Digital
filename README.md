@@ -1,2 +1,3 @@
-# BIF-Digital
-Design System for BIF Digital
+MidCta is the dark call-to-action card inserted mid-article: `ink-warm` ground, `radius-xl`, 36px 34px padding, max width 760px, an eyebrow pill, an `post-h3` question, one supporting line in `meta-dim` and one `yellow` button with `radius-md`.
+
+Consumer provides: eyebrow, a question heading, one line of value and the button label ("Agendar … →"). One per post; repeat the offer in the closing CTA, not in a second card.
